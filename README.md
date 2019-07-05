@@ -1,1 +1,1 @@
-Test
+Just some codewars practice katas
