@@ -20,3 +20,9 @@ def anagrams(word, wordlist):
       result.append(item)
 
   return result
+
+'''
+And a more advanced way: 
+
+def anagrams(word, words): return [item for item in words if sorted(item)==sorted(word)]
+'''
