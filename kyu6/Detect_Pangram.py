@@ -9,5 +9,3 @@ def is_pangram(s):
         if c.isalpha():
             string = string + c
     return True if len(set((string))) == 26 else False
-
-print(is_pangram("The quick, brown fox jumps over the lazy dog!"))
