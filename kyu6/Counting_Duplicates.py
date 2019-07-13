@@ -7,5 +7,3 @@ def duplicate_count(text):
         if text.count(i) > 1 and i not in result:
             result.append(i)
     return len(result)
-
-print(duplicate_count('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'))
