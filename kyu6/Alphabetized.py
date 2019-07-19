@@ -7,7 +7,4 @@ def alphabetized(s):
             result += c
     return ''.join(sorted(result, key=lambda s: s.lower()))
 
-
-
-
 print(alphabetized("CodeWars can't Load Today"))
