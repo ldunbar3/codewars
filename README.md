@@ -1,57 +1,59 @@
-- __codewars__
-  - [README.md](codewars/README.md)
-  - __kyu2__
-  - __kyu3__
-  - __kyu1__
-  - __kyu4__
-  - __kyu5__
-    - [All_Star_Code_Challenge_19.py](codewars/kyu5/All_Star_Code_Challenge_19.py)
-    - [Land_Perimeter.py](codewars/kyu5/Land_Perimeter.py)
-    - [Regex_Password_Validation.py](codewars/kyu5/Regex_Password_Validation.py)
-    - [Human_Readable_Time.py](codewars/kyu5/Human_Readable_Time.py)
-    - [Where_My_Anagrams_At.py](codewars/kyu5/Where_My_Anagrams_At.py)
-    - [Rot_13.py](codewars/kyu5/Rot_13.py)
-  - __kyu6__
-    - [Alphabetized.py](codewars/kyu6/Alphabetized.py)
-    - [Backspaces_In_Strings.py](codewars/kyu6/Backspaces_In_Strings.py)
-    - [Detect_Pangram.py](codewars/kyu6/Detect_Pangram.py)
-    - [Counting_Duplicates.py](codewars/kyu6/Counting_Duplicates.py)
-    - [Is_Prime.py](codewars/kyu6/Is_Prime.py)
-    - [Kebabize.py](codewars/kyu6/Kebabize.py)
-    - [Nut_Farm.py](codewars/kyu6/Nut_Farm.py)
-    - [Highest_Scoring_Word.py](codewars/kyu6/Highest_Scoring_Word.py)
-    - [Prefill_An_Array.py](codewars/kyu6/Prefill_An_Array.py)
-    - [Reverse_Every_Other_Word_In_String.py](codewars/kyu6/Reverse_Every_Other_Word_In_String.py)
-    - [Seperate_Wheat_From_Chaff.py](codewars/kyu6/Seperate_Wheat_From_Chaff.py)
-    - [Stop_Spinning_My_Words.py](codewars/kyu6/Stop_Spinning_My_Words.py)
-    - [Sums_Of_Parts.py](codewars/kyu6/Sums_Of_Parts.py)
-    - [Take_A_Ten_Minute_Walk.py](codewars/kyu6/Take_A_Ten_Minute_Walk.py)
-    - [To_Weird_Case.py](codewars/kyu6/To_Weird_Case.py)
-    - [Tower_Builder.py](codewars/kyu6/Tower_Builder.py)
-    - [Unique_In_Order.py](codewars/kyu6/Unique_In_Order.py)
-    - [Word_A10n.py](codewars/kyu6/Word_A10n.py)
-  - __kyu7__
-    - [Disemvowel_Trolls.py](codewars/kyu7/Disemvowel_Trolls.py)
-    - [Exes_And_Ohs.py](codewars/kyu7/Exes_And_Ohs.py)
-    - [Flatten_Me.py](codewars/kyu7/Flatten_Me.py)
-    - [From_The_Minimum.py](codewars/kyu7/From_The_Minimum.py)
-    - [Form_The_largest.py](codewars/kyu7/Form_The_largest.py)
-    - [Isograms.py](codewars/kyu7/Isograms.py)
-    - [Maskify.py](codewars/kyu7/Maskify.py)
-    - [Minimum_Steps.py](codewars/kyu7/Minimum_Steps.py)
-    - [Maximum_Product.py](codewars/kyu7/Maximum_Product.py)
-    - [Money_Money_Money.py](codewars/kyu7/Money_Money_Money.py)
-    - [Odd-Even_String_sort.py](codewars/kyu7/Odd-Even_String_sort.py)
-    - [Product_Array.py](codewars/kyu7/Product_Array.py)
-    - [Regex_Validate_PIN_Code.py](codewars/kyu7/Regex_Validate_PIN_Code.py)
-    - [Sum_List_ignore_Duplicates.py](codewars/kyu7/Sum_List_ignore_Duplicates.py)
-    - [Sort_Out_The_Men_From_The_Boys.py](codewars/kyu7/Sort_Out_The_Men_From_The_Boys.py)
-    - [The_Office_I.py](codewars/kyu7/The_Office_I.py)
-  - __kyu8__
-    - [Count_Odd_Numbers_Below_N.py](codewars/kyu8/Count_Odd_Numbers_Below_N.py)
-    - [Find_The_Smallest_Integer_In_Array.py](codewars/kyu8/Find_The_Smallest_Integer_In_Array.py)
-    - [Lost_With_A_Map.py](codewars/kyu8/Lost_With_A_Map.py)
-    - [Is_There_A_Vowel_In_There.py](codewars/kyu8/Is_There_A_Vowel_In_There.py)
-    - [Persistent_Bugger.py](codewars/kyu8/Persistent_Bugger.py)
-    - [Reversed_Strings.py](codewars/kyu8/Reversed_Strings.py)
+.
+├── README.md
+├── kyu1
+├── kyu2
+├── kyu3
+├── kyu4
+├── kyu5
+│   ├── All_Star_Code_Challenge_19.py
+│   ├── Human_Readable_Time.py
+│   ├── Land_Perimeter.py
+│   ├── Regex_Password_Validation.py
+│   ├── Rot_13.py
+│   └── Where_My_Anagrams_At.py
+├── kyu6
+│   ├── Alphabetized.py
+│   ├── Backspaces_In_Strings.py
+│   ├── Counting_Duplicates.py
+│   ├── Detect_Pangram.py
+│   ├── Highest_Scoring_Word.py
+│   ├── Is_Prime.py
+│   ├── Kebabize.py
+│   ├── Nut_Farm.py
+│   ├── Prefill_An_Array.py
+│   ├── Reverse_Every_Other_Word_In_String.py
+│   ├── Seperate_Wheat_From_Chaff.py
+│   ├── Stop_Spinning_My_Words.py
+│   ├── Sums_Of_Parts.py
+│   ├── Take_A_Ten_Minute_Walk.py
+│   ├── To_Weird_Case.py
+│   ├── Tower_Builder.py
+│   ├── Unique_In_Order.py
+│   └── Word_A10n.py
+├── kyu7
+│   ├── Disemvowel_Trolls.py
+│   ├── Exes_And_Ohs.py
+│   ├── Flatten_Me.py
+│   ├── Form_The_largest.py
+│   ├── From_The_Minimum.py
+│   ├── Isograms.py
+│   ├── Maskify.py
+│   ├── Maximum_Product.py
+│   ├── Minimum_Steps.py
+│   ├── Money_Money_Money.py
+│   ├── Odd-Even_String_sort.py
+│   ├── Product_Array.py
+│   ├── Regex_Validate_PIN_Code.py
+│   ├── Sort_Out_The_Men_From_The_Boys.py
+│   ├── Sum_List_ignore_Duplicates.py
+│   └── The_Office_I.py
+├── kyu8
+│   ├── Count_Odd_Numbers_Below_N.py
+│   ├── Find_The_Smallest_Integer_In_Array.py
+│   ├── Is_There_A_Vowel_In_There.py
+│   ├── Lost_With_A_Map.py
+│   ├── Persistent_Bugger.py
+│   └── Reversed_Strings.py
+└── temp.txt
 
+8 directories, 48 files
