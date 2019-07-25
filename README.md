@@ -1,4 +1,4 @@
-'''bash
+```bash
 .
 ├── README.md
 ├── kyu1
@@ -58,4 +58,5 @@
 └── temp.txt
 
 8 directories, 48 files
-'''
+
+```
