@@ -24,10 +24,12 @@
 │   ├── Is_Prime.py
 │   ├── Kebabize.py
 │   ├── Nut_Farm.py
+│   ├── Positions_Average.py
 │   ├── Prefill_An_Array.py
 │   ├── Reverse_Every_Other_Word_In_String.py
 │   ├── Seperate_Wheat_From_Chaff.py
 │   ├── Stop_Spinning_My_Words.py
+│   ├── Sum_Of_Nested_Numbers.py
 │   ├── Sums_Of_Parts.py
 │   ├── Take_A_Ten_Minute_Walk.py
 │   ├── To_Weird_Case.py
@@ -50,16 +52,15 @@
 │   ├── Regex_Validate_PIN_Code.py
 │   ├── Sort_Out_The_Men_From_The_Boys.py
 │   ├── Sum_List_ignore_Duplicates.py
+│   ├── Sum_Of_Odd_Numbers.py
 │   └── The_Office_I.py
 └── kyu8
-    ├── Count_Odd_Numbers_Below_N.py
-    ├── Find_The_Smallest_Integer_In_Array.py
-    ├── Is_There_A_Vowel_In_There.py
-    ├── Lost_With_A_Map.py
-    ├── Persistent_Bugger.py
-    └── Reversed_Strings.py
+    ├── Count_Odd_Numbers_Below_N.py
+    ├── Find_The_Smallest_Integer_In_Array.py
+    ├── Is_There_A_Vowel_In_There.py
+    ├── Lost_With_A_Map.py
+    ├── Persistent_Bugger.py
+    └── Reversed_Strings.py
 
-
-8 directories, 48 files
-
+8 directories, 50 files
 ```
