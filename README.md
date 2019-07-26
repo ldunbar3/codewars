@@ -1,3 +1,6 @@
+![](https://www.codewars.com/users/ldunbar3/badges/large)
+
+### Solutions
 ```bash
 .
 ├── README.md
@@ -48,14 +51,14 @@
 │   ├── Sort_Out_The_Men_From_The_Boys.py
 │   ├── Sum_List_ignore_Duplicates.py
 │   └── The_Office_I.py
-├── kyu8
-│   ├── Count_Odd_Numbers_Below_N.py
-│   ├── Find_The_Smallest_Integer_In_Array.py
-│   ├── Is_There_A_Vowel_In_There.py
-│   ├── Lost_With_A_Map.py
-│   ├── Persistent_Bugger.py
-│   └── Reversed_Strings.py
-└── temp.txt
+└── kyu8
+    ├── Count_Odd_Numbers_Below_N.py
+    ├── Find_The_Smallest_Integer_In_Array.py
+    ├── Is_There_A_Vowel_In_There.py
+    ├── Lost_With_A_Map.py
+    ├── Persistent_Bugger.py
+    └── Reversed_Strings.py
+
 
 8 directories, 48 files
 
