@@ -23,11 +23,13 @@
 │   ├── Highest_Scoring_Word.py
 │   ├── Is_Prime.py
 │   ├── Kebabize.py
+│   ├── Mulitples_Of_3_Or_5.py
 │   ├── Nut_Farm.py
 │   ├── Positions_Average.py
 │   ├── Prefill_An_Array.py
 │   ├── Reverse_Every_Other_Word_In_String.py
 │   ├── Seperate_Wheat_From_Chaff.py
+│   ├── Shortest_Steps_To_A_Number.py
 │   ├── Stop_Spinning_My_Words.py
 │   ├── Sum_Of_Nested_Numbers.py
 │   ├── Sums_Of_Parts.py
@@ -50,10 +52,15 @@
 │   ├── Odd-Even_String_sort.py
 │   ├── Product_Array.py
 │   ├── Regex_Validate_PIN_Code.py
+│   ├── Return_The_Closest_Number_Multiple_Of_Ten.py
+│   ├── Return_The_First_M_Multiples_Of_N.py
+│   ├── See_You_Next_Happy_Year.py
 │   ├── Sort_Out_The_Men_From_The_Boys.py
 │   ├── Sum_List_ignore_Duplicates.py
+│   ├── Sum_Of_A_Beach.py
 │   ├── Sum_Of_Odd_Numbers.py
-│   └── The_Office_I.py
+│   ├── The_Office_I.py
+│   └── Which_String_Is_Worth_More.py
 └── kyu8
     ├── Count_Odd_Numbers_Below_N.py
     ├── Find_The_Smallest_Integer_In_Array.py
@@ -62,5 +69,5 @@
     ├── Persistent_Bugger.py
     └── Reversed_Strings.py
 
-8 directories, 50 files
+8 directories, 57 files
 ```
