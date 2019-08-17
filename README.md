@@ -1,3 +1,5 @@
+Code from my solutions to (https://www.codewars.com "Codewars") katas.
+
 ![](https://www.codewars.com/users/ldunbar3/badges/large)
 
 ### Solutions
