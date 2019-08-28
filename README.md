@@ -14,6 +14,7 @@ Code from my solutions to (https://www.codewars.com "Codewars") katas.
 │   ├── All_Star_Code_Challenge_19.py
 │   ├── Break_The_Caesar.py
 │   ├── Common_Denominators.py
+│   ├── Directions_Reduction.py
 │   ├── Human_Readable_Time.py
 │   ├── Land_Perimeter.py
 │   ├── MongoDB_ObjectID.py
@@ -34,6 +35,7 @@ Code from my solutions to (https://www.codewars.com "Codewars") katas.
 │   ├── Counting_Duplicates.py
 │   ├── Detect_Pangram.py
 │   ├── Find_The_Odd_Int.py
+│   ├── Good_Vs_Evil.py
 │   ├── Grouped_By_Commons.py
 │   ├── Highest_Scoring_Word.py
 │   ├── Is_Prime.py
@@ -41,6 +43,7 @@ Code from my solutions to (https://www.codewars.com "Codewars") katas.
 │   ├── Mexican_Wave.py
 │   ├── Mulitples_Of_3_Or_5.py
 │   ├── Nut_Farm.py
+│   ├── Pair_Of_Gloves.py
 │   ├── Plenty_Of_Fish_In_The_Pond.py
 │   ├── Positions_Average.py
 │   ├── Prefill_An_Array.py
@@ -48,23 +51,28 @@ Code from my solutions to (https://www.codewars.com "Codewars") katas.
 │   ├── Seperate_Wheat_From_Chaff.py
 │   ├── Shortest_Steps_To_A_Number.py
 │   ├── Stop_Spinning_My_Words.py
+│   ├── String_Transformer.py
 │   ├── Sum_Of_Nested_Numbers.py
 │   ├── Sums_Of_Parts.py
 │   ├── Take_A_Ten_Minute_Walk.py
+│   ├── The_Supermarket_Queue.py
 │   ├── To_Weird_Case.py
 │   ├── Tower_Builder.py
 │   ├── Two_Joggers.py
 │   ├── Unique_In_Order.py
+│   ├── Whats_In_A_Name.py
 │   ├── Who_Likes_It.py
 │   └── Word_A10n.py
 ├── kyu7
 │   ├── Adding_Words_1.py
 │   ├── Alphabet_War.py
+│   ├── Alternate_Capitalization.py
 │   ├── Array_Comparator.py
 │   ├── Array_Leaders.py
 │   ├── Consecutive_Letters.py
 │   ├── Disemvowel_Trolls.py
 │   ├── Exes_And_Ohs.py
+│   ├── Fix_String_Case.py
 │   ├── Flatten_Me.py
 │   ├── Form_The_largest.py
 │   ├── From_The_Minimum.py
@@ -72,6 +80,7 @@ Code from my solutions to (https://www.codewars.com "Codewars") katas.
 │   ├── Invite_More_Women.py
 │   ├── Is_Divisible.py
 │   ├── Isograms.py
+│   ├── Largest_5_Digit_Number_In_Series.py
 │   ├── Maskify.py
 │   ├── Maximum_Product.py
 │   ├── Minimize_Sum_Of_Array.py
@@ -112,7 +121,8 @@ Code from my solutions to (https://www.codewars.com "Codewars") katas.
     ├── Persistent_Bugger.py
     ├── Reversed_Strings.py
     ├── String_Repeat.py
+    ├── String_Repeat.sh
     └── Sum_Array.py
 
-8 directories, 101 files
+8 directories, 111 files
 ```
