@@ -9,4 +9,4 @@ friend of yours! Otherwise, you can be sure he's not...
 '''
 
 def friend(x):
-    return list(filter(lambda y: len(y)==4, x))
+    return list(filter(lambda name: len(name)==4, x))
