@@ -16,15 +16,7 @@ def count(s):
             word_count[key] += 1
     return word_count
 
+# Refactored to:
 
-
-    # alphabet = dict( (key, 0) for key in string.ascii_lowercase )
-
-    # for l in s:
-    #     alphabet[l] += 1
-    # print(alphabet)
-
-    # return 
-
-print(count('aba'))#, {'a': 2, 'b': 1})
-print(count(''))#, {})
+def count(s):
+    return {char: s.count(char) for char in s}
