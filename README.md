@@ -4,6 +4,7 @@ Code from my solutions to (https://www.codewars.com "Codewars") katas.
 
 ### Solutions
 ```bashcodewars
+codewars
 ├── README.md
 ├── kyu1
 ├── kyu2
@@ -18,6 +19,7 @@ Code from my solutions to (https://www.codewars.com "Codewars") katas.
 │   ├── Human_Readable_Time.py
 │   ├── Land_Perimeter.py
 │   ├── MongoDB_ObjectID.py
+│   ├── Pete_The_Baker.py
 │   ├── Regex_For_Gregorian_Date_Validation.py
 │   ├── Regex_Password_Validation.py
 │   ├── Rot_13.py
@@ -29,17 +31,24 @@ Code from my solutions to (https://www.codewars.com "Codewars") katas.
 ├── kyu6
 │   ├── Alphabetized.py
 │   ├── Array_Diff.py
+│   ├── Autocomplete_Yay.py
 │   ├── Backspaces_In_Strings.py
+│   ├── Character_Limits.py
 │   ├── Consecutive_Strings.py
 │   ├── Consonant_Value.py
+│   ├── Convert_String_To_Camelcase.py
+│   ├── Count_Characters_In_Your_String.py
 │   ├── Counting_Duplicates.py
 │   ├── Detect_Pangram.py
+│   ├── Find_The_Mine.py
 │   ├── Find_The_Odd_Int.py
+│   ├── Fizz_Slash_Buzz.py
 │   ├── Good_Vs_Evil.py
 │   ├── Grouped_By_Commons.py
 │   ├── Highest_Scoring_Word.py
 │   ├── Is_Prime.py
 │   ├── Kebabize.py
+│   ├── Meeting.py
 │   ├── Mexican_Wave.py
 │   ├── Mulitples_Of_3_Or_5.py
 │   ├── Nut_Farm.py
@@ -60,9 +69,11 @@ Code from my solutions to (https://www.codewars.com "Codewars") katas.
 │   ├── Tower_Builder.py
 │   ├── Two_Joggers.py
 │   ├── Unique_In_Order.py
+│   ├── Vasya_Clerk.py
 │   ├── Whats_In_A_Name.py
 │   ├── Who_Likes_It.py
-│   └── Word_A10n.py
+│   ├── Word_A10n.py
+│   └── Your_Order_Please.py
 ├── kyu7
 │   ├── Adding_Words_1.py
 │   ├── Alphabet_War.py
@@ -72,13 +83,17 @@ Code from my solutions to (https://www.codewars.com "Codewars") katas.
 │   ├── Consecutive_Letters.py
 │   ├── Disemvowel_Trolls.py
 │   ├── Exes_And_Ohs.py
+│   ├── Find_Duplicates.py
+│   ├── Finding_Length_Of_The_Sequence.py
 │   ├── Fix_String_Case.py
 │   ├── Flatten_Me.py
 │   ├── Form_The_largest.py
+│   ├── Friend_Or_Foe.py
 │   ├── From_The_Minimum.py
 │   ├── Incrementer.py
 │   ├── Invite_More_Women.py
 │   ├── Is_Divisible.py
+│   ├── Is_This_A_Triangle.py
 │   ├── Isograms.py
 │   ├── Largest_5_Digit_Number_In_Series.py
 │   ├── Maskify.py
@@ -94,6 +109,7 @@ Code from my solutions to (https://www.codewars.com "Codewars") katas.
 │   ├── Product_Of_Largest_Pair.py
 │   ├── Product_Of_Maximums_Of_Array.py
 │   ├── Regex_Validate_PIN_Code.py
+│   ├── Remove_The_Minimum.py
 │   ├── Return_The_Closest_Number_Multiple_Of_Ten.py
 │   ├── Return_The_First_M_Multiples_Of_N.py
 │   ├── See_You_Next_Happy_Year.py
@@ -124,5 +140,5 @@ Code from my solutions to (https://www.codewars.com "Codewars") katas.
     ├── String_Repeat.sh
     └── Sum_Array.py
 
-8 directories, 111 files
+8 directories, 126 files
 ```
